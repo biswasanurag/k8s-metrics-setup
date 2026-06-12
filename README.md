@@ -3,7 +3,7 @@ This is the setup for Kubernetes Metrics API
 
 # Install K8s Metrics API
 Clone the repo using the below link:  
-https://github.com/iam-biswas/k8s-metrics-setup.git  
+https://github.com/biswasanurag/k8s-metrics-setup.git  
 
 Run the below command to install the K8s Metrics API  
 ```shell
